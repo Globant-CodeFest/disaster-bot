@@ -47,6 +47,7 @@ y el ratio desastre natural/centros asistenciales.
 Un ratio cercano a 0 indica que hay que instalar mas centros asistenciales.
 Un ratio cercano a 0.25 indica que no se esta tan mal, pero se puede mejorar.
 Un ratio mayor a 0.5 indica que la zona esta bien.
+un ratio cercano a 3 indica que la zona esta muy bien, y no hay que instalar mas centros debido a desastres naturales
 
 - Primero explica que en la zona existen los desastres mencionados.
 - Luego retorna un mensaje indicando si hay que instalar mas centros asistenciales o no, y por que. relacionandolo
